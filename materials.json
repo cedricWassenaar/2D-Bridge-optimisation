@@ -1,0 +1,43 @@
+{
+  "A36 Steel": {
+      "E_modulus": 200000000000,
+      "density": 7800,
+      "yield_strength": 250000000
+  },
+
+  "1090 Steel": {
+      "E_modulus": 247000000000,
+      "density": 7800,
+      "yield_strength": 841000000
+  },
+
+  "AISI 6150 steel": {
+      "E_modulus": 210000000000,
+      "density": 7800,
+      "yield_strength": 412300000
+  },
+
+  "6061-T6 Aluminium alloy": {
+      "E_modulus": 68900000000,
+      "density": 2700,
+      "yield_strength": 55000000
+  },
+
+  "2014-T6 Aluminium alloy": {
+      "E_modulus": 72400000000,
+      "density": 2800,
+      "yield_strength": 414000000
+  },
+
+  "Ti-6Al-4V Titanium": {
+      "E_modulus": 113800000000,
+      "density": 4430,
+      "yield_strength": 880000000
+  },
+
+  "Grade 4 Titanium": {
+      "E_modulus": 105000000000,
+      "density": 4510,
+      "yield_strength": 552000000
+  }
+}
